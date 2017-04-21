@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Genevieve's Github Website
+
+Here are the instructions for how to use the built-in markdown editor: 
 
 You can use the [editor on GitHub](https://github.com/linkedlibrary/engfeh/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
